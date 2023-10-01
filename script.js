@@ -4,7 +4,7 @@ var u =  " Kalvium"
 console.log(i + u);
 
 // Challenge 2: Store the given string in a variable and print the same in console. String: If you fail, never give up because FAIL means "First Attempt In Learning".
-var fail = "If you fail, never give up because FAIL means 'First Attempt In Learning'";
+var fail = 'If you fail, never give up because FAIL means "First Attempt In Learning"';
 console.log(fail)
 
 // Challenge 3: Store a string in a variable and display the length of the string.
